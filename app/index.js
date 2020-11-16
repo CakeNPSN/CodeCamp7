@@ -2,7 +2,7 @@ const greet = (name) => {
 
     // Test 2
     let message = "Hello, ";
-    if (name === null) {
+    if (name === null) { 
         return "Hello, My Friend."
     }
 
